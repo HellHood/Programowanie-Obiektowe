@@ -31,6 +31,7 @@ namespace Restauracja
 
         }
         ListaZamowien listaZamowien = new ListaZamowien();
+        ListaGotowychZamowien 
 
         private void button1_Click_1(object sender, EventArgs e)
         {
@@ -55,6 +56,11 @@ namespace Restauracja
         private void dataInNrStolika_ValueChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            (dataOutListaDan.SelectedItem)
         }
     }
 }
