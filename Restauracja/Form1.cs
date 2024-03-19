@@ -31,8 +31,7 @@ namespace Restauracja
 
         }
         ListaZamowien listaZamowien = new ListaZamowien();
-        ListaGotowychZamowien 
-
+        
         private void button1_Click_1(object sender, EventArgs e)
         {
             Zamowienie nowezamowienie = new Zamowienie();
