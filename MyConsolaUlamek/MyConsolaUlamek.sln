@@ -5,8 +5,6 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyConsolaUlamek", "MyConsolaUlamek\MyConsolaUlamek.csproj", "{0453A6CF-B44E-4B58-8D58-78B4CC241653}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulator", "Kalkulator\Kalkulator.csproj", "{263FA63C-4E42-44C2-A5B5-66D2271C924E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{0453A6CF-B44E-4B58-8D58-78B4CC241653}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0453A6CF-B44E-4B58-8D58-78B4CC241653}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0453A6CF-B44E-4B58-8D58-78B4CC241653}.Release|Any CPU.Build.0 = Release|Any CPU
-		{263FA63C-4E42-44C2-A5B5-66D2271C924E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{263FA63C-4E42-44C2-A5B5-66D2271C924E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{263FA63C-4E42-44C2-A5B5-66D2271C924E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{263FA63C-4E42-44C2-A5B5-66D2271C924E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
